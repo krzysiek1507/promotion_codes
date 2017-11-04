@@ -30,4 +30,6 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+  errors:
+    unique?: has already been taken
   hello: "Hello world"
